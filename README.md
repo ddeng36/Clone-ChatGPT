@@ -40,3 +40,9 @@ npm run dev
 - You need to be in a network environment that can access Google Cloud and OpenAI.
 - `text3-davinci` is the default AI engine, if you want to use other AI engine, you need to change the parameters in `my-chatgpt/lib/chatgpt.ts`.
 - If you get error, please check your console.
+
+## License
+  - This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
+
+## Acknowledgements
+  - The implementation of this chat application was inspired by various online resources and tutorials. We would like to acknowledge the contribution of these resources in developing this project.
